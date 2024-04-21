@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, Power BI, Tableau, Python and R.
 - 🌱 I’m currently learning Python while I am enhancing my skills and knowledge in SQL.
 - 💞️ I’m looking to collaborate on data cleaning and data visualization projects.
-- 📫 How to reach me: Send me a snail mail coz why not?
+- 📫 How to reach me: Send me a snail mail coz why not? Just kidding.
 - 😄 Pronouns: Wonderwoman
 - ⚡ Fun fact: I love Inuyasha *wink wink*
 
