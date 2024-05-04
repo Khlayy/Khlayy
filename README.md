@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data cleaning and data visualization projects.
 - 📫 How to reach me: Send me a snail mail coz why not? Just kidding.
 - 😄 Pronouns: Wonderwoman
-- ⚡ Fun fact: I love Inuyasha *wink wink*
+- ⚡ Fun fact: I am an anime fan. *waku waku*
 
 <!---
 Khlayy/Khlayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
